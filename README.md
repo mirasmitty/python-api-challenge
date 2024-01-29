@@ -24,7 +24,7 @@ Miranda Smith
 # References
 Data for this project was pulled from the following sources: 
 
-citipy: https://pypi.org/project/citipy/
-OpenWeatherMap API: https://openweathermap.org/api
-Geoapify API: https://www.geoapify.com/
-GeoViews: https://geoviews.org/
+- citipy: https://pypi.org/project/citipy/
+- OpenWeatherMap API: https://openweathermap.org/api
+- Geoapify API: https://www.geoapify.com/
+- GeoViews: https://geoviews.org/
